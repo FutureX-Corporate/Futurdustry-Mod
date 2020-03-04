@@ -1,9 +1,8 @@
-name: 
-color: 
-type: 
-explosiveness: 
-flammability: 
-radioactivity: 
-hardness: 
-cost: 
-alwaysUnlocked: 
+name: Platinum
+description: A mineable material used in creating enhanced metals and materials.
+color: c7c7c7
+type: material
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+hardness: 2
