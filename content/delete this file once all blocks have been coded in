@@ -1,0 +1,34 @@
+Files in order:
+items
+blocks
+mechs
+liquids
+units
+zones
+
+- items:
+    - mineable    
+        platinum
+        gold
+        silver
+        iron
+        magnesium
+        uranium
+    -able to be created in machines
+        copper dust
+        lead dust
+        platinum dust
+        gold dust
+        silver dust
+        iron dust
+        glass
+        dermium
+        hematite
+        charged uranium
+        magnetite
+        charged phase fabric
+        steel
+        blast steel
+
+-blocks:
+     add later
