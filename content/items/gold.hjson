@@ -1,0 +1,9 @@
+name: Gold
+description: A basic material used to build weapons and buildings. Also used to craft certain materials.
+color: f2ce3d
+type: material
+explosiveness: 
+flammability: 
+radioactivity: 
+hardness: 
+cost: 
