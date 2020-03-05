@@ -1,5 +1,5 @@
 Files in order:
-items
+items       -   done
 blocks
 mechs
 liquids
@@ -15,24 +15,41 @@ zones
         magnesium
         uranium
     -able to be created in machines
-        copper dust
-        lead dust
-        platinum dust
-        gold dust
-        silver dust
-        iron dust
-        uranium dust - *HIGHLY EXPLOSIVE!!!*
-        glass
-        dermium
-        hematite
-        charged uranium
-        magnetite
-        charged phase fabric
-        steel
-        blast steel
+        copper dust     - *MADE FROM COPPER IN HYDRAULIC PRESS*
+        lead dust       - *MADE FROM LEAD IN HYDRAULIC PRESS*
+        platinum dust   - *MADE FROM PLATINUM IN HYDRAULIC PRESS*
+        gold dust       - *MADE FROM GOLD IN HYDRAULIC PRESS*
+        silver dust     - *MADE FROM SILVER IN HYDRAULIC PRESS*
+        iron dust       - *MADE FROM IRON IN HYDRAULIC PRESS*
+        uranium dust    - *MADE FROM URANIUM IN HYDRAULIC PRESS*   *HIGHLY EXPLOSIVE!!!*
+        glass           - *MADE FROM SAND, COAL, AND SILICON IN SMELTER*
+        sermium         - *MADE FROM PLATINUM, THORIUM, AND LEAD DUST IN TRANSFORMER*
+        hematite        - *MADE FORM IRON, PYRATITE, AND COAL IN TRANSFORMER*
+        charged uranium - *MADE FROM URANIUM, MAGNESIUM, AND GOLD DUST IN URANIUM CHARGER*
+        magnetite       - *MADE FROM IRON, IRON DUST, COAL, AND MAGNESIUM IN TRANSFORMER*
+        charged phase fabric    - *MADE FROM PHASE FABRIC, MAGNESIUM, TITANTIUM, AND PLATINUM DUST IN PHASE FABRIC CHARGER*
+        steel           - *MADE FROM IRON AND COAL IN SMELTER*
+        blast steel     - *MADE FROM STEEL, PYRATITE, AND BLAST COMPOUND IN STEEL BLASTER*
     done
 
 -blocks:
-     -smeltery
+     -conveyors
+        Blast Conveyor      - *MADE FORM BLAST COMPOUND, GRAPHITE, AND IRON DUST BY CORE*
+        Platinum Conveyor   - *MADE FROM PLATINUM, TITANIUM, AND GRAPHITE BY CORE*
+        Sermium Conveyor    - *MADE FROM SERMIUM AND TITANIUM BY CORE*
+        MagBelt             - *MADE FROM MAGNESIUM, MAGNETITE, GRAPHITE, AND HEMATITE BY CORE*
+     -decoration
+     -drills
+        Nuclear Drill
+        Hydraulic Drill
+        Omni Drill
+     -map mineable blocks
+     -smeltery; crafting; enhancing
+        Hydraulic Press     - *MADE FROM GOLD AND IRON BY CORE*
+        Smelter             - *MADE FROM IRON, GRAPHITE, AND LEAD BY CORE*
+        Steel Blaster       - *MADE FROM TITANIUM, PLATINUM, AND PLATINUM DUST BY CORE*
+        Transformer         - *MADE FROM TITANIUM, PLATINUM, LEAD, AND GOLD BY CORE*
+        Uranium Charger
+        Phase Fabric Charger
      -walls
      -weapons
