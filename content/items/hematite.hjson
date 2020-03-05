@@ -1,0 +1,8 @@
+name: Hematite
+description: Can be used to enhance certain metals.
+color: edb600
+type: resource
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+cost: 1
