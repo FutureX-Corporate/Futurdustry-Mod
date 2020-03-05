@@ -1,0 +1,8 @@
+name: Silver Dust
+description: The broken down version of silver. Can be used to enhance certain metals and weapons.
+color: bfc8d6
+type: resource
+explosiveness: 0.02
+flammability: 0
+radioactivity: 0
+cost: 1
