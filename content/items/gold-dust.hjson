@@ -1,0 +1,8 @@
+name: Gold Dust
+description: A broken down version of gold. Can be used to enhance certain weapons.
+color: f2ce3d
+type: resource
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+cost: 1
