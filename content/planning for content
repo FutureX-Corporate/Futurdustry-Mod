@@ -30,6 +30,9 @@ zones
         charged phase fabric
         steel
         blast steel
+    done
 
 -blocks:
-     add later
+     -smeltery
+     -walls
+     -weapons
