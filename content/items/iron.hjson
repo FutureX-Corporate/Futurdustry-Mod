@@ -1,0 +1,8 @@
+name: Iron
+description: Used to build walls, weapons, metals, and buildings.
+color: c99e49
+type: material
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+hardness: 2
