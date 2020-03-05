@@ -2,7 +2,7 @@ name: Platinum
 description: A mineable material used in creating enhanced metals and materials.
 color: c7c7c7
 type: material
-explosiveness: 0
-flammability: 0
+explosiveness: 0.01
+flammability: 0.01
 radioactivity: 0
-hardness: 2
+hardness: 3
