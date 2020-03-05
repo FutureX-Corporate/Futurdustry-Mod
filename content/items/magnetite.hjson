@@ -1,0 +1,8 @@
+name: Magnetite
+description: Can be used to enhance certain metals and to build walls.
+color: d3d3d3
+type: material
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+cost: 1
