@@ -1,0 +1,8 @@
+name: Blast Steel
+description: An enhanced version of steel. Can be used as ammo.
+color: d0d6d6
+type: resource
+explosiveness: 0.6
+flammability: 0
+radioactivity: 0.1
+cost: 1
