@@ -1,0 +1,8 @@
+name: Magnesium
+description: Used to make high powered drills, conveyor belts, and power plants. Can also be used as ammo for certain weapons.
+color: ebebeb
+type: material
+explosiveness: 1
+flammability: 1
+radioactivity: 0
+hardness: 4
