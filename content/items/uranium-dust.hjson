@@ -1,0 +1,8 @@
+name: Uranium Dust
+description: The broken down version of uranium. Can be used to enhance power plants, metals, and weapons.
+color: caf2c2
+type: resource
+explosiveness: 0.6
+flammability: 0.6
+radioactivity: 1
+cost: 1
