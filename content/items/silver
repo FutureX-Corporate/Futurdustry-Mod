@@ -1,0 +1,8 @@
+name: Silver
+description: An ore to provide ammo to certain turrets.
+color: bfc8d6
+type: resource
+explosiveness: 0.01
+flammability: 0
+radioactivity: 0
+hardness: 2
