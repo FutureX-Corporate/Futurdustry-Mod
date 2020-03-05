@@ -1,6 +1,6 @@
 name: "Futurdustry"
-displayName: "[white]Futur[gold]dustry" //what displays in the mod selection menu
+displayName: "[white]Futur[gold]dustry[]"
 author: "Scorpi Studios"
-description: "To meet the expectations of the future-ish.[]"
+description: "To meet the expectations of the future-ish."
 version: "1.0"
 minGameVersion: "103"
