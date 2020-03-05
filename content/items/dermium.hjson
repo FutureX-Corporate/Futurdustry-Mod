@@ -1,7 +1,7 @@
 name: Dermium
 description: Can be used as ammo for certain weapons. Can also be used to build walls and buildings.
 color: 3eb8b0
-type: resource
+type: material
 explosiveness: 0.4
 flammability: 0
 radioactivity: 0
