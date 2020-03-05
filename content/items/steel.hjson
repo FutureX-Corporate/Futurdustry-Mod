@@ -1,0 +1,8 @@
+name: Steel
+description: Can be used to build buildings.
+color: d6d6d6
+type: material
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+cost: 1
