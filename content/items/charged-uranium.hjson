@@ -1,0 +1,8 @@
+name: Charged Uranium
+description: Can be used as ammo for certain weapons and to enhance power plants.
+color: c4f5ba
+type: material
+explosiveness: 0.4
+flammability: 0.5
+radioactivity: 1.4
+cost: 1
