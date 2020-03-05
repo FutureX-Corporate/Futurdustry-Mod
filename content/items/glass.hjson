@@ -1,0 +1,8 @@
+name: Glass
+description: Can be used to make walls and buildings. Can also be used to enhance certain metals.
+color: f2fdff
+type: material
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+cost: 1
