@@ -1,0 +1,8 @@
+name: Uranium
+description: Highly explosive and radioactive. Can be used as ammo and to power nuclear power plants.
+color: caf2c2
+type: resource
+explosiveness: 0.4
+flammability: 0.5
+radioactivity: 1
+hardness: 4
