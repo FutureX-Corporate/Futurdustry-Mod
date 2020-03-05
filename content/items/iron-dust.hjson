@@ -1,0 +1,8 @@
+name: Iron Dust
+description: The broken down version of iron. Can be used to enhance certain metals and weapons.
+color: c99e49
+type: resource
+explosiveness: 0.02
+flammability: 0
+radioactivity: 0
+cost: 1
