@@ -1,0 +1,8 @@
+name: Lead Dust
+description: A broken down version of lead. Can be used to enhance certain metals.
+color: 9f75ff
+type: resource
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+cost: 1
