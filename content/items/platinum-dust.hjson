@@ -1,0 +1,8 @@
+name: Platinum Dust
+description: A broken down version of platinum. Can be used to enhance power plants and certain weapons.
+color: c7c7c7
+type: resource
+explosiveness: 0.05
+flammability: 0.05
+radioactivity: 0
+cost: 1
