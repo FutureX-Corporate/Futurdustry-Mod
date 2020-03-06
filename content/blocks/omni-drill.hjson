@@ -1,0 +1,20 @@
+name: Omni Drill
+description: The drill for multiple uses.
+type: Drill
+size: 3
+tier: 2
+drillTime: 200
+consumes: {
+  power: 3
+  liquid: {
+    amount: 0.3
+    booster: true
+  }
+}
+requirements: [
+  graphite/50
+  steel/40
+  thorium/20
+]
+category: production
+research: laser-drill
