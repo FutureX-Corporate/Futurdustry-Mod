@@ -1,6 +1,6 @@
 type: Conveyor
 name: Blast Conveyor
-description: A secondary option for the titanium conveyor.
+description: A secondary option for the Titanium Conveyor.
 requirements: [
   gold/1
   graphite/1
