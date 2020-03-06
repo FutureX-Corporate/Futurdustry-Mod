@@ -1,0 +1,12 @@
+type: Conveyor
+name: Sermium Conveyor
+description: The second fastest conveyor that is more durable and faster than the Platinum Conveyor.
+requirements: [
+  sermium/2
+  hematite/1
+  titanium/2
+  magnesium/1
+]
+category: distribution
+speed: 0.55
+research: platinum-conveyor
