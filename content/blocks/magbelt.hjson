@@ -2,11 +2,11 @@ type: Conveyor
 name: MagBelt
 description: The fastest conveyor belt out there.
 requirements: [
-  magnesium/10
-  magnetite/15
-  graphite/15
-  hematite/20
+  magnesium/2
+  magnetite/3
+  graphite/2
+  hematite/3
 ]
 category: distribution
 speed: 0.75
-research: titanium-conveyor
+research: sermium-conveyor
