@@ -34,12 +34,12 @@ zones
 
 -blocks:
      -conveyors
-        Blast Conveyor      - *MADE FORM BLAST STEEL, GRAPHITE, AND IRON DUST BY CORE*
+        Blast Conveyor      - *MADE FORM BLAST STEEL, GRAPHITE, AND GOLD BY CORE*
         Platinum Conveyor   - *MADE FROM PLATINUM, TITANIUM, AND GRAPHITE BY CORE*
         Sermium Conveyor    - *MADE FROM SERMIUM, HEMATITE, AND TITANIUM BY CORE*
         MagBelt             - *MADE FROM MAGNESIUM, MAGNETITE, GRAPHITE, CHARGED PHASE FABRIC, AND HEMATITE BY CORE*   *FASTEST CONVEYOR OUT THERE*
      -decoration
-        Steel Plate
+        Steel Plate - NOT SURE
      -drills
         Nuclear Drill       - *MADE FORM STEEL, PYRATITE, URANIUM, AND BLAST STEEL BY CORE*   *BEST DRILL OUT THERE*
         Hydraulic Drill     - *MADE FROM COPPER, IRON, AND GOLD DUST BY CORE*   *CLOSELY RELATED TO PNEUMATIC DRILL*
@@ -52,6 +52,8 @@ zones
         Transformer         - *MADE FROM TITANIUM, PLATINUM, LEAD, AND GOLD BY CORE*
         Uranium Charger     - *MADE FORM TITANIUM, HEMATITE, GOLD DUST, AND GLASS BY CORE*
         Phase Fabric Charger    -*MADE FROM TITANIUM, HEMATITE, PLATINUM DUST, AND GLASS BY CORE*
+     -power supplers
+        Nucler Power Plant
      -walls
         Charged Phase Wall  - *MADE FROM CHARGED PHASE FABRIC BY CORE*   *STRONGEST WALL OUT THERE*
         Dermium Wall        - *MADE FORM DERMIUM BY CORE*
