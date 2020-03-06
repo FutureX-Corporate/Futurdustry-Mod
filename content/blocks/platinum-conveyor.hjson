@@ -1,0 +1,11 @@
+type: Conveyor
+name: Platinum Conveyor
+description: More durable and faster than the Blast Conveyor.
+requirements: [
+  graphite/1
+  titanium/2
+  platinum/2
+]
+category: distribution
+speed: 0.30
+research: blast-conveyor
