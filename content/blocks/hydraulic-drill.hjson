@@ -1,0 +1,20 @@
+name: Hydraulic Drill
+description: A close twin to the Pneumatic Drill.
+type: Drill
+size: 2
+tier: 2
+drillTime: 250
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  silver/25
+  silicon/40
+  sermium/10
+]
+category: production
+research: pneumatic-drill
