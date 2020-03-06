@@ -1,0 +1,11 @@
+type: Conveyor
+name: Blast Conveyor
+description: A secondary option for the titanium conveyor.
+requirements: [
+  gold/1
+  graphite/1
+  blast steel/2
+]
+category: distribution
+speed: 0.20
+research: titanium-conveyor
