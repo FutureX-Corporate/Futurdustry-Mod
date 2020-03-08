@@ -11,8 +11,9 @@ The futuristic-ish mod for Mindustry.
 
 
 ### Downloading
-  To install the mod in Mindustry, download this repository as a zip, then import it through the `Mods` dialog in Mindustry.
+  To install the mod in Mindustry, download this repository as a zip, then import it through the `Mods` section in Mindustry.
 
 
 #### Contributors
 just NewJumper... :(
+hopefully will get someone else...
