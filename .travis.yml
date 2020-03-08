@@ -1,2 +1,9 @@
-language: java
-install: ./install-dependencies.sh
+{
+  "language": "java",
+  "os": [
+    "windows"
+  ],
+  "install": [
+    "./install-dependencies.sh"
+  ]
+}
