@@ -17,3 +17,7 @@ The futuristic-ish mod for Mindustry.
 #### Contributors
 just NewJumper... :(
 hopefully will get someone else...
+
+
+
+![Logo](content/sprites/ui/logo.png)
