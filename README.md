@@ -1,4 +1,7 @@
 # Futurdustry-Mod
+
+[![Build Status](https://travis-ci.orgFutureX-Corporate/Futurdustry-Mod.svg?branch=master)](https://travis-ci.org/FutureX-Corporate/Futurdustry-Mod) 
+
 The futuristic-ish mod for Mindustry.
 
 ~
