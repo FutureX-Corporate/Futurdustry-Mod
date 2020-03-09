@@ -1,7 +1,4 @@
 # Futurdustry-Mod
-
-[![Build Status]](https://travis-ci.com/FutureX-Corporate/Futurdustry-Mod) 
-
 The futuristic-ish mod for Mindustry.
 
 ~
