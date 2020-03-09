@@ -15,6 +15,6 @@ The futuristic-ish mod for Mindustry.
 just NewJumper... :(
 hopefully will get someone else...
 
-
+![Logo](sprites/items/platinum.png)
 
 ![Logo](sprites/ui/logo.png)
