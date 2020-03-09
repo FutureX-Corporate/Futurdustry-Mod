@@ -17,4 +17,4 @@ hopefully will get someone else...
 
 
 
-![Logo](content/sprites/ui/logo.png)
+![Logo](sprites/ui/logo.png)
