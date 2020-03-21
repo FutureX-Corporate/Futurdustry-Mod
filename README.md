@@ -17,7 +17,8 @@ The futuristic-ish mod for Mindustry.
 
 
 #### Contributors
-NewJumper
+NewJumper 
+
 still searching for volunteers...
 
 
