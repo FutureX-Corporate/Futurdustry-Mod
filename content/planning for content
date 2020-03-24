@@ -30,7 +30,12 @@ zones
         charged phase fabric    - *MADE FROM PHASE FABRIC, MAGNESIUM, TITANTIUM, AND PLATINUM DUST IN PHASE FABRIC CHARGER*
         steel               - *MADE FROM IRON AND COAL IN SMELTER*
         blast steel         - *MADE FROM STEEL, PYRATITE, AND BLAST COMPOUND IN STEEL BLASTER*
-    done
+done
+    -extras
+        magnesium alloy
+        gold alloy
+        lead alloy
+        copper alloy
 
 -blocks:
      -conveyors
