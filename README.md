@@ -1,4 +1,4 @@
-# Futurdustry-Mod
+![Logo](sprites/ui/fd_logo.png)
 The futuristic-ish mod for Mindustry.
 
 ~
@@ -22,4 +22,4 @@ NewJumper
 still searching for volunteers...
 
 
-![Logo](sprites/ui/logo.png)
+
