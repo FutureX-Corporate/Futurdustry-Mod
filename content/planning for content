@@ -71,6 +71,9 @@ done
 -mechs:
 
 -liquids:
+    -natural
+    -manufactured
+        Extreme Coolant
 
 -units:
 
