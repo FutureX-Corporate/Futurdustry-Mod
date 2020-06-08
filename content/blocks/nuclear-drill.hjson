@@ -7,8 +7,13 @@ drillTime: 150
 consumes: {
   power: 10
   liquid: {
-    liquid: water
+    liquid: cryofluid
     amount: 0.5
+    booster: true
+  }
+  liquid: {
+    liquid: water
+    amount: 0.3
     booster: true
   }
 }
