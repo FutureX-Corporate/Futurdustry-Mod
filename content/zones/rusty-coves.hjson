@@ -1,0 +1,35 @@
+name: Rusty Coves
+description: this is just a test map that could (possibly) become an actual map...
+loadout: basicNucleus
+startingItems: [
+  copper/200
+  lead/300
+]
+conditionWave: 10
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: stainedMountains
+    wave: 20
+  }
+  {
+    type: Unlock
+    block: hydraulic-drill
+  }
+  {
+    type: Unlock
+    block: battery-large
+  }
+  {
+    type: Unlock
+    block: pyratite-mixer
+]
+resources: [
+  copper
+  gold
+  lead
+  coal
+  sand
+  silver
+]
