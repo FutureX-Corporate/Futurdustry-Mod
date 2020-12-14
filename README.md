@@ -1,6 +1,5 @@
 # THIS MOD IS CLOSED AND IS NOT BEING WORKED ON
-  Below is outdated info, later to be updated to recent versions on Mindustry
-  By later, it could be a week from now or three years. :/
+  Below is outdated info, later to be updated to recent versions on Mindustry. By later, it could be a week from now or three years. :/
 
 ~
 
