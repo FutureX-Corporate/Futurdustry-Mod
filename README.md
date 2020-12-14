@@ -1,3 +1,5 @@
+# THIS MOD IS CLOSED AND IS NOT BEING WORKED ON
+
 ![Logo](sprites/ui/fd_logo.png)
 
 The futuristic-ish mod for Mindustry.
