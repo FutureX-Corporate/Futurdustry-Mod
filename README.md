@@ -15,7 +15,7 @@ The futuristic-ish mod for Mindustry.
 
 ### Extra Info
   This mod is still currently in progress, and it cannot be used in Mindustry yet. :)
-  If anyone wants to help out witht this build, just send an email to let me know: **futurex.corporate@gmail.com**
+  If anyone wants to help out with this build, just send an email to let me know: **futurex.corporate@gmail.com**
 
 
 ### Downloading
