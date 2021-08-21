@@ -1,4 +1,6 @@
+# UPDATED VERSION OF THIS MOD IS NOW ON https://github.com/NewJumper/Futurdustry
 # THIS MOD IS CLOSED AND IS NOT BEING WORKED ON
+
   Below is outdated info, later to be updated to recent versions on Mindustry. By later, it could be a week from now or three years. :/
 
 ~
